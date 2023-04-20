@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+1C:9D:72:57:4F:88, 2023-04-16 13:10:47, 2023-04-16 13:12:51, 11, 260, WPA2, CCMP, PSK, -48,      562,      379,   0.  0.  0.  0,  13, Vodafone-4F84, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+4A:68:4B:61:41:45, 2023-04-16 13:10:49, 2023-04-16 13:12:49, -75,      655, 1C:9D:72:57:4F:88,Vodafone-4F84
+
